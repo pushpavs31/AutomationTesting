@@ -1,0 +1,47 @@
+14:54:17.294 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+14:54:56.717 [main] INFO  AT.Base.BaseClass - click on My account link
+14:54:56.816 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
+14:55:01.938 [main] INFO  AT.Base.BaseClass - Entered password in password field
+14:57:07.406 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+14:57:58.942 [main] INFO  AT.Base.BaseClass - click on My account link
+14:57:59.051 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
+14:58:04.359 [main] INFO  AT.Base.BaseClass - Entered password in password field
+14:58:09.398 [main] INFO  AT.Base.BaseClass - click on Register button
+14:58:09.517 [main] INFO  AT.Base.BaseClass - original msg is :Error: Please provide a valid email address.
+15:09:25.932 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+15:10:22.153 [main] INFO  AT.Base.BaseClass - click on My account link
+15:10:22.244 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
+15:10:27.444 [main] INFO  AT.Base.BaseClass - Entered password in password field
+15:13:13.701 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+15:13:34.357 [main] INFO  AT.Base.BaseClass - click on My account link
+15:13:34.693 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
+15:13:39.850 [main] INFO  AT.Base.BaseClass - Entered password in password field
+15:14:16.097 [main] INFO  AT.Base.BaseClass - click on Register button
+15:14:16.243 [main] INFO  AT.Base.BaseClass - is error msg displayed with enterd invlid email true
+15:16:19.138 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+15:16:46.617 [main] INFO  AT.Base.BaseClass - click on My account link
+15:16:46.776 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
+15:16:50.976 [main] INFO  AT.Base.BaseClass - Entered password in password field
+15:17:18.916 [main] INFO  AT.Base.BaseClass - click on Register button
+15:17:18.988 [main] INFO  AT.Base.BaseClass - is error msg displayed with enterd invlid email true
+15:18:13.212 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+15:18:48.002 [main] INFO  AT.Base.BaseClass - click on My account link
+15:18:48.137 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
+15:18:52.304 [main] INFO  AT.Base.BaseClass - Entered password in password field
+15:20:43.990 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+15:21:27.471 [main] INFO  AT.Base.BaseClass - click on My account link
+15:21:27.608 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
+15:21:31.774 [main] INFO  AT.Base.BaseClass - Entered password in password field
+15:24:37.762 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+15:25:11.402 [main] INFO  AT.Base.BaseClass - click on My account link
+15:25:11.538 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
+15:25:17.716 [main] INFO  AT.Base.BaseClass - Entered password in password field
+15:26:10.007 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+15:26:33.117 [main] INFO  AT.Base.BaseClass - click on My account link
+15:26:33.225 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
+15:26:37.413 [main] INFO  AT.Base.BaseClass - Entered password in password field
+15:27:30.950 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+15:27:50.462 [main] INFO  AT.Base.BaseClass - click on My account link
+15:27:50.521 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
+15:27:55.744 [main] INFO  AT.Base.BaseClass - Entered password in password field
+15:33:57.212 [TestNG-test=Registration Test-1] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully

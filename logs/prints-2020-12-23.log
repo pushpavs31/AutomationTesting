@@ -1,0 +1,473 @@
+21:34:23.627 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+21:36:33.265 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+21:36:49.891 [main] DEBUG AT.Base.BaseClass - ************* null Browser has launched*************
+21:36:49.892 [main] INFO  AT.Base.BaseClass - Web has Opened and maximise
+21:36:58.147 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+21:37:14.210 [main] INFO  AT.Base.BaseClass - clicked on home menu
+21:37:14.468 [main] INFO  AT.Base.BaseClass - home page is three arrival
+21:37:14.732 [main] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+22:33:53.311 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+22:34:29.491 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+22:34:29.491 [main] INFO  AT.Base.BaseClass - Web has Opened and maximise
+22:34:42.582 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+22:35:03.774 [main] INFO  AT.Base.BaseClass - clicked on home menu
+22:35:04.205 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+22:35:11.636 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+22:35:11.643 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+22:35:11.812 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser closed successfully*************
+22:38:31.292 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+22:38:47.098 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+22:38:47.099 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+22:38:56.364 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+22:39:05.596 [main] INFO  AT.Base.BaseClass - clicked on home menu
+22:39:05.754 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+22:39:14.901 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+22:39:14.913 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+22:39:14.913 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+22:39:19.210 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+22:39:28.254 [main] INFO  AT.Base.BaseClass - clicked on cart item
+22:39:28.478 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser closed successfully*************
+22:55:38.672 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+22:56:42.462 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+22:56:42.462 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+22:56:54.009 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+22:57:02.878 [main] INFO  AT.Base.BaseClass - clicked on home menu
+22:57:04.915 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+22:57:06.346 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser closed successfully*************
+22:57:16.656 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+23:13:14.595 [TestNG-test=home page Test-1] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+23:15:02.667 [TestNG-test=home page Test-2] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+23:16:17.895 [TestNG-test=home page Test-1] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+23:16:17.896 [TestNG-test=home page Test-1] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+23:16:26.091 [TestNG-test=home page Test-2] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+23:16:26.091 [TestNG-test=home page Test-2] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+23:16:35.245 [TestNG-test=home page Test-2] INFO  AT.Base.BaseClass - clicked on shop menu
+23:16:43.346 [TestNG-test=home page Test-2] INFO  AT.Base.BaseClass - clicked on home menu
+23:17:42.545 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+23:19:08.898 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+23:19:08.976 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+23:19:24.028 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+23:19:33.560 [main] INFO  AT.Base.BaseClass - clicked on home menu
+23:19:39.116 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+23:19:39.973 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser closed successfully*************
+23:20:06.549 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+23:21:28.596 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+23:21:28.596 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+23:21:37.502 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+23:21:52.713 [main] INFO  AT.Base.BaseClass - clicked on home menu
+23:21:52.743 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+23:21:58.438 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+23:21:58.445 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+23:21:58.446 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+23:22:02.080 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+23:22:06.378 [main] INFO  AT.Base.BaseClass - clicked on cart item
+23:22:06.475 [main] INFO  AT.Base.BaseClass - ruby is successfully added in basket
+23:22:06.690 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser closed successfully*************
+01:53:01.876 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+01:53:42.192 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+01:53:42.192 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+01:53:49.681 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+01:54:11.022 [main] INFO  AT.Base.BaseClass - clicked on home menu
+01:54:11.137 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+01:54:11.137 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+01:54:18.330 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+01:54:18.341 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+01:54:18.341 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+01:54:18.479 [main] INFO  AT.Base.BaseClass - clicked on description tab
+01:54:18.676 [main] INFO  AT.Base.BaseClass - selenium ruby description is available
+01:54:18.889 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser closed successfully*************
+12:28:46.362 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+10:57:35.448 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+10:58:10.395 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+10:58:10.396 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+10:58:22.514 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+10:58:36.861 [main] INFO  AT.Base.BaseClass - clicked on home menu
+10:58:37.277 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+10:58:37.277 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+10:58:46.834 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+10:58:46.857 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+10:58:46.858 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+10:59:47.435 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser closed successfully*************
+11:04:36.835 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:05:09.170 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+11:05:09.171 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+11:05:24.159 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:05:46.138 [main] INFO  AT.Base.BaseClass - clicked on home menu
+11:05:46.334 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:05:46.335 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:05:56.207 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+11:05:56.221 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+11:05:56.221 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+11:06:03.828 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+11:06:11.067 [main] INFO  AT.Base.BaseClass - clicked on cart item
+11:06:12.306 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+11:08:11.639 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:08:20.964 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+11:08:20.965 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+11:08:22.601 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:09:11.813 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:09:25.173 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+11:09:26.233 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+11:09:26.233 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+11:09:36.230 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:09:52.409 [main] INFO  AT.Base.BaseClass - clicked on home menu
+11:09:52.610 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:09:52.611 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:10:02.149 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+11:10:02.190 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+11:10:02.190 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+11:10:09.975 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+11:10:18.065 [main] INFO  AT.Base.BaseClass - clicked on cart item
+11:10:18.956 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+11:22:40.038 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:22:52.766 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+11:22:52.766 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+11:23:02.793 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:23:18.707 [main] INFO  AT.Base.BaseClass - clicked on home menu
+11:23:19.229 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:23:19.230 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:23:27.949 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+11:23:27.973 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+11:23:27.973 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+11:23:32.655 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+11:23:40.032 [main] INFO  AT.Base.BaseClass - clicked on cart item
+11:23:41.858 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+11:29:14.573 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:29:23.598 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+11:29:23.598 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+11:29:35.221 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:29:55.048 [main] INFO  AT.Base.BaseClass - clicked on home menu
+11:29:55.269 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:29:55.269 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:30:07.136 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+11:30:07.149 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+11:30:07.149 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+11:30:15.706 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+11:30:23.754 [main] INFO  AT.Base.BaseClass - clicked on cart item
+11:30:25.455 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+11:33:23.488 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:33:28.959 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+11:33:28.959 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+11:33:38.821 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:33:46.592 [main] INFO  AT.Base.BaseClass - clicked on home menu
+11:33:46.731 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:33:46.731 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:33:51.783 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+11:33:51.796 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+11:33:51.796 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+11:33:55.833 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+11:34:04.095 [main] INFO  AT.Base.BaseClass - clicked on cart item
+11:34:05.465 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+11:42:44.768 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:42:51.086 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+11:42:51.086 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+11:43:00.767 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:43:22.249 [main] INFO  AT.Base.BaseClass - clicked on home menu
+11:43:22.786 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:43:22.786 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:43:34.098 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+11:43:34.111 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+11:43:34.111 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+11:43:39.163 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+11:43:46.141 [main] INFO  AT.Base.BaseClass - clicked on cart item
+11:43:47.746 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+11:46:55.181 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:46:59.490 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+11:46:59.490 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+11:47:10.450 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:47:23.433 [main] INFO  AT.Base.BaseClass - clicked on home menu
+11:47:23.581 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:47:23.581 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:47:29.998 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+11:47:30.011 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+11:47:30.011 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+11:47:35.156 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+11:47:41.812 [main] INFO  AT.Base.BaseClass - clicked on cart item
+11:47:43.099 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+11:49:41.266 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:49:45.490 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+11:49:45.490 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+11:49:55.069 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:50:06.824 [main] INFO  AT.Base.BaseClass - clicked on home menu
+11:50:06.965 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:50:06.965 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:50:13.212 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+11:50:13.225 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+11:50:13.225 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+11:50:18.623 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+11:50:26.974 [main] INFO  AT.Base.BaseClass - clicked on cart item
+11:50:28.461 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+11:53:06.120 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:53:10.891 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+11:53:10.891 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+11:53:21.071 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:53:28.802 [main] INFO  AT.Base.BaseClass - clicked on home menu
+11:53:28.940 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:53:28.940 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:53:35.112 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+11:53:35.125 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+11:53:35.126 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+11:53:39.955 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+11:53:45.893 [main] INFO  AT.Base.BaseClass - clicked on cart item
+11:53:47.311 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+11:54:48.350 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:54:59.898 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+11:54:59.899 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+11:55:16.392 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:55:24.229 [main] INFO  AT.Base.BaseClass - clicked on home menu
+11:55:24.375 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:55:24.375 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:55:30.890 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+11:55:30.903 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+11:55:30.903 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+11:55:35.155 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+11:55:40.257 [main] INFO  AT.Base.BaseClass - clicked on cart item
+11:55:41.186 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+11:56:30.056 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:56:33.974 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+11:56:33.974 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+11:56:42.625 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:56:49.828 [main] INFO  AT.Base.BaseClass - clicked on home menu
+11:56:49.963 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:56:49.963 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+11:56:55.049 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+11:56:55.062 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+11:56:55.062 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+11:56:59.292 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+11:57:03.343 [main] INFO  AT.Base.BaseClass - clicked on cart item
+11:57:04.663 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+12:23:25.617 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+12:23:41.650 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+12:23:41.650 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+12:23:51.203 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+12:24:06.482 [main] INFO  AT.Base.BaseClass - clicked on home menu
+12:24:06.697 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+12:24:06.697 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+12:24:16.258 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+12:24:16.271 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+12:24:33.603 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+12:37:59.232 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+12:38:06.655 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+12:38:06.655 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+12:38:19.810 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+12:38:27.401 [main] INFO  AT.Base.BaseClass - clicked on home menu
+12:38:27.569 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+12:38:27.569 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+12:38:32.784 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+12:38:32.796 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+12:38:49.094 [main] INFO  AT.Base.BaseClass - Entered the vale in text box 
+12:38:50.227 [main] INFO  AT.Base.BaseClass - clicked on ruby add to basket button
+12:38:50.668 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+13:09:59.328 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+13:10:00.853 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+13:10:07.613 [main] INFO  AT.Base.BaseClass - clicked on home menu
+13:10:09.466 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:10:09.467 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:10:16.616 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+13:10:17.044 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+13:10:17.045 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+13:10:18.648 [main] INFO  AT.Base.BaseClass - clicked on description tab
+13:10:20.074 [main] INFO  AT.Base.BaseClass - selenium ruby description is available
+13:10:20.809 [main] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+13:17:49.850 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+13:17:51.600 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+13:18:03.252 [main] INFO  AT.Base.BaseClass - clicked on home menu
+13:18:03.894 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:18:03.895 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:18:06.095 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+13:18:06.485 [main] DEBUG AT.Base.BaseClass - Next page title is : 
+13:18:07.776 [main] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+13:25:29.161 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+13:25:30.782 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+13:25:44.455 [main] INFO  AT.Base.BaseClass - clicked on home menu
+13:25:45.002 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:25:45.003 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:25:47.540 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+13:25:48.402 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+13:25:48.402 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+13:25:51.856 [main] INFO  AT.Base.BaseClass - clicked on description tab
+13:25:53.216 [main] INFO  AT.Base.BaseClass - selenium ruby description is available
+13:25:54.175 [main] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+13:29:53.562 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+13:29:56.104 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+13:30:02.190 [main] INFO  AT.Base.BaseClass - clicked on home menu
+13:30:03.698 [main] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+13:33:36.173 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+13:33:37.905 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+13:33:46.329 [main] INFO  AT.Base.BaseClass - clicked on home menu
+13:33:47.164 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:33:47.164 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:33:55.992 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+13:33:56.412 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+13:33:56.413 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+13:33:57.995 [main] INFO  AT.Base.BaseClass - clicked on description tab
+13:33:59.492 [main] INFO  AT.Base.BaseClass - selenium ruby description is available
+13:34:00.212 [main] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+13:41:36.617 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+13:41:40.510 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+13:41:45.707 [main] INFO  AT.Base.BaseClass - clicked on home menu
+13:41:46.363 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:41:46.363 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:41:50.138 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+13:41:50.693 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+13:41:50.694 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+13:41:53.343 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+13:41:56.584 [main] INFO  AT.Base.BaseClass - clicked on cart item
+13:42:04.729 [main] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+13:42:14.414 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+13:42:18.207 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+13:42:23.329 [main] INFO  AT.Base.BaseClass - clicked on home menu
+13:42:23.945 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:42:23.946 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:42:27.119 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+13:42:27.547 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+13:42:27.547 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+13:42:28.533 [main] INFO  AT.Base.BaseClass - clicked on description tab
+13:42:30.532 [main] INFO  AT.Base.BaseClass - selenium ruby description is available
+13:42:33.408 [main] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+13:46:53.094 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+13:47:01.664 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+13:47:07.109 [main] INFO  AT.Base.BaseClass - clicked on home menu
+13:47:07.756 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:47:07.756 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:47:11.021 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+13:47:13.856 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+13:47:13.857 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+13:47:16.370 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+13:47:19.374 [main] INFO  AT.Base.BaseClass - clicked on cart item
+13:47:23.688 [main] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+13:47:35.289 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+13:47:39.418 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+13:47:44.570 [main] INFO  AT.Base.BaseClass - clicked on home menu
+13:47:45.215 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:47:45.215 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:47:48.324 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+13:47:48.811 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+13:47:48.813 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+13:47:49.941 [main] INFO  AT.Base.BaseClass - clicked on description tab
+13:47:51.331 [main] INFO  AT.Base.BaseClass - selenium ruby description is available
+13:47:54.175 [main] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+13:49:20.899 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+13:49:25.136 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+13:49:30.410 [main] INFO  AT.Base.BaseClass - clicked on home menu
+13:49:30.995 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:49:30.995 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:49:34.411 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+13:49:34.889 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+13:49:34.890 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+13:49:38.220 [main] INFO  AT.Base.BaseClass - clicked on description tab
+13:49:39.838 [main] INFO  AT.Base.BaseClass - selenium ruby description is available
+13:49:42.767 [main] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+13:49:55.951 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+13:50:00.208 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+13:50:05.721 [main] INFO  AT.Base.BaseClass - clicked on home menu
+13:50:06.212 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:50:06.213 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+13:50:09.563 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+13:50:10.041 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+13:50:10.041 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+13:50:12.603 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+13:50:16.603 [main] INFO  AT.Base.BaseClass - clicked on cart item
+13:50:17.845 [main] INFO  AT.Base.BaseClass - ruby is successfully added in basket
+13:50:20.647 [main] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+15:02:36.643 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+15:02:36.693 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+15:02:39.117 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+15:02:45.935 [main] INFO  AT.Base.BaseClass - clicked on home menu
+15:02:47.971 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+15:02:47.971 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+15:02:56.777 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+15:02:57.220 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+15:02:57.220 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+15:02:58.837 [main] INFO  AT.Base.BaseClass - clicked on description tab
+15:03:00.319 [main] INFO  AT.Base.BaseClass - selenium ruby description is available
+15:03:01.234 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+15:03:24.802 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+15:03:24.802 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+15:03:26.602 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+15:03:39.155 [main] INFO  AT.Base.BaseClass - clicked on home menu
+15:03:40.646 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+15:03:40.647 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+15:03:42.924 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+15:03:43.560 [main] DEBUG AT.Base.BaseClass - Next page title is : 
+15:03:44.916 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+15:07:18.557 [main] DEBUG AT.Base.BaseClass - ************* firefox Browser has launched successfully *************
+15:07:18.565 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+15:07:24.952 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+15:07:34.151 [main] INFO  AT.Base.BaseClass - clicked on home menu
+15:07:34.691 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+15:07:34.691 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+15:07:40.158 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+15:07:40.607 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+15:07:40.608 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+15:07:41.906 [main] INFO  AT.Base.BaseClass - clicked on description tab
+15:07:43.510 [main] INFO  AT.Base.BaseClass - selenium ruby description is available
+15:07:45.149 [main] DEBUG AT.Base.BaseClass - ************* firefox Browser closed successfully*************
+15:08:13.360 [main] DEBUG AT.Base.BaseClass - ************* firefox Browser has launched successfully *************
+15:08:13.360 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+15:08:19.031 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+15:08:28.601 [main] INFO  AT.Base.BaseClass - clicked on home menu
+15:08:29.020 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+15:08:29.020 [main] INFO  AT.Base.BaseClass - home page has only three arrival
+15:08:33.614 [main] INFO  AT.Base.BaseClass - clicked on ruby Image
+15:08:34.029 [main] DEBUG AT.Base.BaseClass - Next page title is : Selenium Ruby – Automation Practice Site
+15:08:34.030 [main] INFO  AT.Base.BaseClass - page title is matching with expected title
+15:08:38.022 [main] INFO  AT.Base.BaseClass - clicked on ruby basket button
+15:08:42.704 [main] INFO  AT.Base.BaseClass - clicked on cart item
+15:08:44.232 [main] INFO  AT.Base.BaseClass - ruby is successfully added in basket
+15:08:45.943 [main] DEBUG AT.Base.BaseClass - ************* firefox Browser closed successfully*************
+21:56:03.935 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+21:59:00.000 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+22:00:56.696 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+22:04:43.037 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+22:06:07.681 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+22:06:10.890 [main] INFO  AT.Base.BaseClass - moved slider from right to left
+22:07:40.775 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+22:09:35.613 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+22:09:37.863 [main] INFO  AT.Base.BaseClass - moved slider from right to left
+11:15:22.820 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:15:45.338 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:15:46.390 [main] INFO  AT.Base.BaseClass - moved slider from right to left
+11:16:48.154 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:17:06.754 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:17:07.714 [main] INFO  AT.Base.BaseClass - moved slider from right to left
+11:18:25.400 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:18:40.106 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:18:40.991 [main] INFO  AT.Base.BaseClass - moved slider from right to left
+11:19:31.331 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:19:46.199 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:19:47.595 [main] INFO  AT.Base.BaseClass - moved slider from right to left
+11:20:34.577 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:20:45.237 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:20:46.018 [main] INFO  AT.Base.BaseClass - moved slider from right to left
+11:21:38.065 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:21:50.755 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:21:51.643 [main] INFO  AT.Base.BaseClass - moved slider from right to left
+11:23:05.448 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:23:17.908 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:24:41.856 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+11:24:54.960 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+11:24:55.922 [main] INFO  AT.Base.BaseClass - moved slider from right to left
+12:01:22.443 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+12:01:43.379 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+12:01:44.400 [main] INFO  AT.Base.BaseClass - moved slider from right to left
+12:02:04.063 [main] INFO  AT.Base.BaseClass - clicked on Filter button
+12:03:16.976 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+12:03:42.244 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+12:03:43.114 [main] INFO  AT.Base.BaseClass - moved slider from right to left
+12:03:52.598 [main] INFO  AT.Base.BaseClass - clicked on Filter button
+19:12:19.681 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+19:12:27.084 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+19:12:27.084 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+19:12:33.581 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+19:12:34.433 [main] INFO  AT.Base.BaseClass - moved slider from right to left
+19:12:40.895 [main] INFO  AT.Base.BaseClass - clicked on Filter button
+19:14:44.412 [main] INFO  AT.Base.BaseClass - all prouct are filtred accordin to price
+19:14:44.413 [main] INFO  AT.Base.BaseClass - ?450.00
+19:14:44.413 [main] INFO  AT.Base.BaseClass - ?250.00
+19:14:44.413 [main] INFO  AT.Base.BaseClass - ?280.00
+19:14:44.414 [main] INFO  AT.Base.BaseClass - ?180.00
+19:14:44.414 [main] INFO  AT.Base.BaseClass - ?150.00
+19:14:44.414 [main] INFO  AT.Base.BaseClass - ?350.00
+19:14:44.414 [main] INFO  AT.Base.BaseClass - ?400.00
+19:14:44.675 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************

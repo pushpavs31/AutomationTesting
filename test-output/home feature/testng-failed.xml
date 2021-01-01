@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [home feature]" parallel="methods">
+  <test thread-count="2" name="homeTest(failed)" parallel="methods">
+    <classes>
+      <class name="TestJava.HomePageTest">
+        <methods>
+          <include name="arrivalImageReview"/>
+          <include name="setUp"/>
+          <include name="homePageHasThreeArrival"/>
+          <include name="generateReport"/>
+          <include name="imagesInArrivalShoulsNavigate"/>
+          <include name="arrival_Image_AddTo_Basket"/>
+          <include name="endReport"/>
+          <include name="tearDown"/>
+          <include name="imageArrivalDescription"/>
+          <include name="arrival_Add_To_Basket_With__MoreBooks"/>
+        </methods>
+      </class> <!-- TestJava.HomePageTest -->
+    </classes>
+  </test> <!-- homeTest(failed) -->
+</suite> <!-- Failed suite [home feature] -->

@@ -1,0 +1,128 @@
+16:12:20.450 [main] INFO  AT.Base.BaseClass - enterd email
+16:12:21.685 [main] INFO  AT.Base.BaseClass - enterd phone number
+16:12:22.788 [main] INFO  AT.Base.BaseClass - selected country
+16:12:23.901 [main] INFO  AT.Base.BaseClass - enterd address
+16:12:25.030 [main] INFO  AT.Base.BaseClass - enterd city
+16:14:15.073 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+16:14:38.067 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+16:14:38.067 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+16:14:43.413 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+16:14:43.447 [main] INFO  AT.Base.BaseClass - clicked on HTML5 add to cart button
+16:14:44.406 [main] INFO  AT.Base.BaseClass - is item menu link is displaying :true
+16:14:48.360 [main] INFO  AT.Base.BaseClass - clicked on Item menu
+16:14:48.431 [main] INFO  AT.Base.BaseClass - did product and price displayed on page :true
+16:14:48.497 [main] INFO  AT.Base.BaseClass - is subtotal and total price displaying :true
+16:14:51.804 [main] INFO  AT.Base.BaseClass - clicked on checlout button
+16:14:51.927 [main] INFO  AT.Base.BaseClass - is billing , order and payment is displaying on checkout page : true
+16:14:53.058 [main] INFO  AT.Base.BaseClass - enterd first name :apex
+16:14:54.150 [main] INFO  AT.Base.BaseClass - enterd last name :joseph
+16:14:55.286 [main] INFO  AT.Base.BaseClass - enterd email
+16:14:56.462 [main] INFO  AT.Base.BaseClass - enterd phone number
+16:14:57.545 [main] INFO  AT.Base.BaseClass - selected country
+16:14:58.687 [main] INFO  AT.Base.BaseClass - enterd address
+16:14:59.856 [main] INFO  AT.Base.BaseClass - enterd city
+16:18:26.634 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+16:18:39.674 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+16:18:39.676 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+16:18:45.366 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+16:18:45.414 [main] INFO  AT.Base.BaseClass - clicked on HTML5 add to cart button
+16:18:46.393 [main] INFO  AT.Base.BaseClass - is item menu link is displaying :true
+16:18:50.744 [main] INFO  AT.Base.BaseClass - clicked on Item menu
+16:18:50.839 [main] INFO  AT.Base.BaseClass - did product and price displayed on page :true
+16:18:50.912 [main] INFO  AT.Base.BaseClass - is subtotal and total price displaying :true
+16:18:56.284 [main] INFO  AT.Base.BaseClass - clicked on checlout button
+16:18:56.377 [main] INFO  AT.Base.BaseClass - is billing , order and payment is displaying on checkout page : true
+16:18:57.480 [main] INFO  AT.Base.BaseClass - enterd first name :apex
+16:18:58.598 [main] INFO  AT.Base.BaseClass - enterd last name :joseph
+16:18:59.789 [main] INFO  AT.Base.BaseClass - enterd email
+16:19:00.908 [main] INFO  AT.Base.BaseClass - enterd phone number
+16:19:02.033 [main] INFO  AT.Base.BaseClass - selected country
+16:19:03.142 [main] INFO  AT.Base.BaseClass - enterd address
+16:19:04.287 [main] INFO  AT.Base.BaseClass - enterd city
+16:24:05.828 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+16:24:41.075 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+16:24:41.075 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+16:24:45.498 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+16:24:45.536 [main] INFO  AT.Base.BaseClass - clicked on HTML5 add to cart button
+16:24:46.440 [main] INFO  AT.Base.BaseClass - is item menu link is displaying :true
+16:24:49.574 [main] INFO  AT.Base.BaseClass - clicked on Item menu
+16:24:49.661 [main] INFO  AT.Base.BaseClass - did product and price displayed on page :true
+16:24:49.796 [main] INFO  AT.Base.BaseClass - is subtotal and total price displaying :true
+16:24:54.392 [main] INFO  AT.Base.BaseClass - clicked on checlout button
+16:24:54.492 [main] INFO  AT.Base.BaseClass - is billing , order and payment is displaying on checkout page : true
+16:24:55.610 [main] INFO  AT.Base.BaseClass - enterd first name :apex
+16:24:56.736 [main] INFO  AT.Base.BaseClass - enterd last name :joseph
+16:24:57.899 [main] INFO  AT.Base.BaseClass - enterd email
+16:24:59.017 [main] INFO  AT.Base.BaseClass - enterd phone number
+16:25:00.137 [main] INFO  AT.Base.BaseClass - selected country
+16:25:01.254 [main] INFO  AT.Base.BaseClass - enterd address
+16:25:02.359 [main] INFO  AT.Base.BaseClass - enterd city
+16:28:22.584 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+16:28:37.178 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+16:28:37.178 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+16:28:44.258 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+16:28:44.314 [main] INFO  AT.Base.BaseClass - clicked on HTML5 add to cart button
+16:28:45.732 [main] INFO  AT.Base.BaseClass - is item menu link is displaying :true
+16:28:50.481 [main] INFO  AT.Base.BaseClass - clicked on Item menu
+16:28:50.585 [main] INFO  AT.Base.BaseClass - did product and price displayed on page :true
+16:28:50.649 [main] INFO  AT.Base.BaseClass - is subtotal and total price displaying :true
+16:28:57.060 [main] INFO  AT.Base.BaseClass - clicked on checlout button
+16:28:57.172 [main] INFO  AT.Base.BaseClass - is billing , order and payment is displaying on checkout page : true
+16:28:58.385 [main] INFO  AT.Base.BaseClass - enterd first name :apex
+16:28:59.744 [main] INFO  AT.Base.BaseClass - enterd last name :joseph
+16:29:00.918 [main] INFO  AT.Base.BaseClass - enterd email
+16:29:02.130 [main] INFO  AT.Base.BaseClass - enterd phone number
+16:29:03.605 [main] INFO  AT.Base.BaseClass - selected country
+16:29:04.721 [main] INFO  AT.Base.BaseClass - enterd address
+16:29:05.862 [main] INFO  AT.Base.BaseClass - enterd city
+16:32:13.719 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+16:32:34.424 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+16:32:34.424 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+16:33:00.051 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+16:33:00.107 [main] INFO  AT.Base.BaseClass - clicked on HTML5 add to cart button
+16:33:01.400 [main] INFO  AT.Base.BaseClass - is item menu link is displaying :true
+16:33:25.075 [main] INFO  AT.Base.BaseClass - clicked on Item menu
+16:33:25.145 [main] INFO  AT.Base.BaseClass - did product and price displayed on page :true
+16:33:25.246 [main] INFO  AT.Base.BaseClass - is subtotal and total price displaying :true
+16:33:30.160 [main] INFO  AT.Base.BaseClass - clicked on checlout button
+16:33:30.246 [main] INFO  AT.Base.BaseClass - is billing , order and payment is displaying on checkout page : true
+16:33:31.441 [main] INFO  AT.Base.BaseClass - enterd first name :apex
+16:33:32.563 [main] INFO  AT.Base.BaseClass - enterd last name :joseph
+16:33:33.723 [main] INFO  AT.Base.BaseClass - enterd email
+16:33:34.897 [main] INFO  AT.Base.BaseClass - enterd phone number
+16:33:36.066 [main] INFO  AT.Base.BaseClass - selected country
+16:33:37.228 [main] INFO  AT.Base.BaseClass - enterd address
+16:33:38.369 [main] INFO  AT.Base.BaseClass - enterd city
+16:35:11.775 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+16:35:35.758 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+16:35:35.759 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+16:35:41.206 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+16:35:41.247 [main] INFO  AT.Base.BaseClass - clicked on HTML5 add to cart button
+16:35:42.508 [main] INFO  AT.Base.BaseClass - is item menu link is displaying :true
+16:35:47.956 [main] INFO  AT.Base.BaseClass - clicked on Item menu
+16:35:48.033 [main] INFO  AT.Base.BaseClass - did product and price displayed on page :true
+16:35:48.101 [main] INFO  AT.Base.BaseClass - is subtotal and total price displaying :true
+16:35:55.503 [main] INFO  AT.Base.BaseClass - clicked on checlout button
+16:35:55.784 [main] INFO  AT.Base.BaseClass - is billing , order and payment is displaying on checkout page : true
+16:35:56.933 [main] INFO  AT.Base.BaseClass - enterd first name :apesx
+16:35:58.040 [main] INFO  AT.Base.BaseClass - enterd last name :joseh
+16:35:59.221 [main] INFO  AT.Base.BaseClass - enterd email
+16:36:00.536 [main] INFO  AT.Base.BaseClass - enterd phone number
+16:36:01.611 [main] INFO  AT.Base.BaseClass - selected country
+16:36:02.742 [main] INFO  AT.Base.BaseClass - enterd address
+16:36:04.030 [main] INFO  AT.Base.BaseClass - enterd city
+16:46:55.621 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+16:47:08.881 [main] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+16:47:08.881 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+16:47:14.556 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+16:47:14.594 [main] INFO  AT.Base.BaseClass - clicked on HTML5 add to cart button
+16:47:15.518 [main] INFO  AT.Base.BaseClass - is item menu link is displaying :true
+16:47:21.286 [main] INFO  AT.Base.BaseClass - clicked on Item menu
+16:47:21.436 [main] INFO  AT.Base.BaseClass - did product and price displayed on page :true
+16:47:21.511 [main] INFO  AT.Base.BaseClass - is subtotal and total price displaying :true
+16:47:25.961 [main] INFO  AT.Base.BaseClass - clicked on checlout button
+16:47:26.052 [main] INFO  AT.Base.BaseClass - is billing , order and payment is displaying on checkout page : true
+16:47:27.230 [main] INFO  AT.Base.BaseClass - enterd first name :apex
+16:47:28.361 [main] INFO  AT.Base.BaseClass - enterd last name :joseph
+16:47:29.518 [main] INFO  AT.Base.BaseClass - enterd email
+16:47:30.724 [main] INFO  AT.Base.BaseClass - enterd phone number

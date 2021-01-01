@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [comman Suite]" parallel="classes">
+  <test thread-count="5" name="funcTest(failed)" parallel="classes">
+    <classes>
+      <class name="TestJava.FunctionalityTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="filter_By_Price_Functionality"/>
+          <include name="sort_Product_By_Popularity"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- TestJava.FunctionalityTest -->
+      <class name="TestJava.HomePageTest">
+        <methods>
+          <include name="arrivalImageReview"/>
+          <include name="setUp"/>
+          <include name="homePageHasThreeArrival"/>
+          <include name="imagesInArrivalShoulsNavigate"/>
+          <include name="arrival_Image_AddTo_Basket"/>
+          <include name="tearDown"/>
+          <include name="imageArrivalDescription"/>
+          <include name="arrival_Add_To_Basket_With__MoreBooks"/>
+        </methods>
+      </class> <!-- TestJava.HomePageTest -->
+    </classes>
+  </test> <!-- funcTest(failed) -->
+</suite> <!-- Failed suite [comman Suite] -->

@@ -1,0 +1,115 @@
+19:45:38.535 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+19:45:46.575 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+19:45:46.575 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+19:46:01.354 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+19:46:02.394 [main] INFO  AT.Base.BaseClass - moved slider from right to left
+19:46:10.750 [main] INFO  AT.Base.BaseClass - clicked on Filter button
+19:47:48.226 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+19:47:52.931 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+19:47:52.931 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+19:47:58.346 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+19:47:59.385 [main] INFO  AT.Base.BaseClass - sorted product by popularity
+19:47:59.386 [main] INFO  AT.Base.BaseClass -  popular product list
+19:48:00.081 [main] INFO  AT.Base.BaseClass - Android Quick Start Guide
+19:48:00.285 [main] INFO  AT.Base.BaseClass - Functional Programming in JS
+19:48:00.489 [main] INFO  AT.Base.BaseClass - HTML5 Forms
+19:48:00.699 [main] INFO  AT.Base.BaseClass - HTML5 WebApp Develpment
+19:48:02.528 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+19:50:38.797 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+19:50:47.382 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+19:50:47.382 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+19:50:52.311 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+19:50:53.209 [main] INFO  AT.Base.BaseClass - sorted product by popularity
+19:50:53.209 [main] INFO  AT.Base.BaseClass -  popular product list
+19:50:53.603 [main] INFO  AT.Base.BaseClass - Android Quick Start Guide
+19:50:53.803 [main] INFO  AT.Base.BaseClass - Functional Programming in JS
+19:50:54.001 [main] INFO  AT.Base.BaseClass - HTML5 Forms
+19:50:54.213 [main] INFO  AT.Base.BaseClass - HTML5 WebApp Develpment
+19:50:54.424 [main] INFO  AT.Base.BaseClass - JS Data Structures and Algorithm
+19:50:54.632 [main] INFO  AT.Base.BaseClass - Mastering JavaScript
+19:50:54.856 [main] INFO  AT.Base.BaseClass - Selenium Ruby
+19:50:55.063 [main] INFO  AT.Base.BaseClass - Thinking in HTML
+19:50:55.284 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+20:52:17.583 [TestNG-tests-1] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+20:52:22.472 [TestNG-tests-2] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+20:52:22.473 [TestNG-tests-2] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+20:52:28.978 [TestNG-tests-1] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+20:52:28.978 [TestNG-tests-1] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+20:52:30.795 [TestNG-tests-1] INFO  AT.Base.BaseClass - clicked on shop menu
+20:53:42.515 [TestNG-tests-2] INFO  AT.Base.BaseClass - clicked on shop menu
+20:53:43.714 [TestNG-tests-2] INFO  AT.Base.BaseClass - sorted product by popularity
+20:53:43.714 [TestNG-tests-2] INFO  AT.Base.BaseClass -  popular product list
+20:53:44.536 [TestNG-tests-2] INFO  AT.Base.BaseClass - Android Quick Start Guide
+20:53:44.738 [TestNG-tests-2] INFO  AT.Base.BaseClass - Functional Programming in JS
+20:53:44.948 [TestNG-tests-2] INFO  AT.Base.BaseClass - HTML5 Forms
+20:53:45.157 [TestNG-tests-2] INFO  AT.Base.BaseClass - HTML5 WebApp Develpment
+20:53:45.363 [TestNG-tests-2] INFO  AT.Base.BaseClass - JS Data Structures and Algorithm
+20:53:47.495 [TestNG-tests-2] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+21:00:41.624 [TestNG-tests-2] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+21:00:47.858 [TestNG-tests-1] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+21:00:54.388 [TestNG-tests-1] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+21:00:54.388 [TestNG-tests-1] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+21:01:07.092 [TestNG-tests-1] INFO  AT.Base.BaseClass - clicked on shop menu
+21:01:08.548 [TestNG-tests-1] INFO  AT.Base.BaseClass - sorted product by popularity
+21:01:08.548 [TestNG-tests-1] INFO  AT.Base.BaseClass -  popular product list
+21:01:09.359 [TestNG-tests-1] INFO  AT.Base.BaseClass - Android Quick Start Guide
+21:01:09.657 [TestNG-tests-1] INFO  AT.Base.BaseClass - Functional Programming in JS
+21:01:09.923 [TestNG-tests-1] INFO  AT.Base.BaseClass - HTML5 Forms
+21:01:10.171 [TestNG-tests-1] INFO  AT.Base.BaseClass - HTML5 WebApp Develpment
+21:01:10.412 [TestNG-tests-1] INFO  AT.Base.BaseClass - JS Data Structures and Algorithm
+21:01:14.054 [TestNG-tests-1] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+21:01:54.549 [TestNG-tests-2] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+21:01:54.549 [TestNG-tests-2] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+21:09:01.703 [TestNG-tests-2] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+21:09:11.327 [TestNG-tests-1] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+21:09:43.639 [TestNG-tests-1] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+21:09:43.639 [TestNG-tests-1] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+21:10:11.984 [TestNG-tests-1] INFO  AT.Base.BaseClass - clicked on shop menu
+21:10:13.600 [TestNG-tests-1] INFO  AT.Base.BaseClass - sorted product by popularity
+21:10:13.601 [TestNG-tests-1] INFO  AT.Base.BaseClass -  popular product list
+21:10:14.766 [TestNG-tests-1] INFO  AT.Base.BaseClass - Android Quick Start Guide
+21:10:15.060 [TestNG-tests-1] INFO  AT.Base.BaseClass - Functional Programming in JS
+21:10:15.411 [TestNG-tests-1] INFO  AT.Base.BaseClass - HTML5 Forms
+21:10:26.466 [TestNG-tests-1] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+11:36:53.307 [TestNG-tests-2] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+11:39:14.513 [TestNG-tests-2] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+11:39:26.418 [TestNG-tests-1] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+11:39:26.418 [TestNG-tests-1] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+11:39:33.456 [TestNG-tests-2] DEBUG AT.Base.BaseClass - ************* chrome Browser has launched successfully *************
+11:39:33.456 [TestNG-tests-2] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+11:39:56.034 [TestNG-tests-2] INFO  AT.Base.BaseClass - clicked on shop menu
+11:40:17.902 [TestNG-tests-1] INFO  AT.Base.BaseClass - clicked on shop menu
+11:40:19.114 [TestNG-tests-1] INFO  AT.Base.BaseClass - sorted product by popularity
+11:40:19.114 [TestNG-tests-1] INFO  AT.Base.BaseClass -  popular product list
+11:40:19.901 [TestNG-tests-1] INFO  AT.Base.BaseClass - Android Quick Start Guide
+11:40:20.199 [TestNG-tests-1] INFO  AT.Base.BaseClass - Functional Programming in JS
+11:40:20.520 [TestNG-tests-1] INFO  AT.Base.BaseClass - HTML5 Forms
+11:40:20.826 [TestNG-tests-1] INFO  AT.Base.BaseClass - HTML5 WebApp Develpment
+11:40:24.172 [TestNG-tests-1] DEBUG AT.Base.BaseClass - ************* null Browser closed successfully*************
+14:37:30.485 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+13:50:28.160 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+13:50:44.270 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+13:50:44.270 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+13:51:04.536 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+13:51:05.369 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+13:56:55.863 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+13:57:07.830 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+13:57:07.830 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+13:57:16.452 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+13:57:18.533 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+14:04:16.988 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+14:04:25.316 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+14:04:25.316 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+14:04:39.960 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+14:04:42.264 [main] INFO  AT.Base.BaseClass - clicked on read more button ofandroid quick guide
+14:04:45.913 [main] INFO  AT.Base.BaseClass - is out of stock message is displayed on page true
+14:04:45.933 [main] INFO  AT.Base.BaseClass - message was clearly displaying on page
+14:04:46.599 [main] DEBUG AT.Base.BaseClass - ************* ie Browser closed successfully*************
+14:10:23.335 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+14:10:27.854 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+14:10:27.854 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+14:14:07.665 [main] DEBUG AT.Base.BaseClass - ie Browser has started Successfully
+14:14:12.573 [main] DEBUG AT.Base.BaseClass - ************* ie Browser has launched successfully *************
+14:14:12.573 [main] INFO  AT.Base.BaseClass - Webpage has Opened and maximise
+14:14:26.497 [main] INFO  AT.Base.BaseClass - clicked on shop menu
+14:14:28.890 [main] INFO  AT.Base.BaseClass - clicked on read more button ofandroid quick guide
