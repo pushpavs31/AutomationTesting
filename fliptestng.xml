@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="FlipkartSuite">
+  <test thread-count="2" name="login and changesTest">
+   <classes>
+      <class name="FlipkartTest.LogInTest"/>
+      <class name="FlipkartTest.PersonalInformationChangesTest"/>
+    </classes>
+  </test> <!-- login and changesTest -->
+</suite> <!-- FlipkartSuite -->

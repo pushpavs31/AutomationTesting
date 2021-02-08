@@ -5,7 +5,6 @@ import java.lang.reflect.Method;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import org.junit.Ignore;
 import org.testng.Assert;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
@@ -22,12 +21,12 @@ import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 
-import AT.Base.BaseTest;
+import AT.Base.BaseClass;
 import AT.objectRepository.HomePage;
 import AT.objectRepository.MyAccountPage;
 import AT.utility.Utilities;
 
-public class RegistrationTest extends BaseTest {
+public class RegistrationTest extends BaseClass {
 
 	HomePage homepage;
 	MyAccountPage accountPage;
@@ -84,7 +83,7 @@ public class RegistrationTest extends BaseTest {
 			ETest.log(Status.FAIL, "Test execution has failed " + result.getThrowable());
 			ETest.info("Test is failed,screenhot has been taken, check above screenshot");
 
-			String screenshotpath = Utilities.takeScreenShot(methodname,getDriver());
+			String screenshotpath = Utilities.takeScreenShot(methodname,Ndriver);
 			try {
 				ETest.addScreenCaptureFromPath(screenshotpath, methodname);
 			} catch (Exception e) {
@@ -92,14 +91,14 @@ public class RegistrationTest extends BaseTest {
 			}
 
 		}
-		getDriver().close();
+		Ndriver.close();
 
 	}
 
 
 	@Test(priority=1)
 	public void registration_with_Valid_Invalid_Data() throws InterruptedException {
-		homepage = new HomePage(getDriver());
+		homepage = new HomePage(Ndriver);
 		accountPage = homepage.clickOnMyAccountLink();
 		log.info("click on My account link");
 		ETest.info("click on My account link");
@@ -127,7 +126,7 @@ public class RegistrationTest extends BaseTest {
 	
 	@Test(priority=2)
 	public void registration_with_Invalid_email() throws InterruptedException {
-		homepage = new HomePage(getDriver());
+		homepage = new HomePage(Ndriver);
 		accountPage = homepage.clickOnMyAccountLink();
 		log.info("click on My account link");
 		ETest.info("click on My account link");
@@ -155,7 +154,7 @@ public class RegistrationTest extends BaseTest {
 
 	@Test(priority=3)
 	public void registration_with_Empty_email() throws InterruptedException {
-		homepage = new HomePage(getDriver());
+		homepage = new HomePage(Ndriver);
 		accountPage = homepage.clickOnMyAccountLink();
 		log.info("click on My account link");
 		ETest.info("click on My account link");

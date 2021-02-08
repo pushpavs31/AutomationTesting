@@ -1,49 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="3" ignored="0" total="3" passed="0">
+<testng-results skipped="0" failed="1" ignored="1" total="2" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="256400" started-at="2020-12-29T15:24:27 IST" finished-at="2020-12-29T15:28:43 IST">
+  <suite name="Default suite" duration-ms="20970" started-at="2021-02-05T14:10:42 IST" finished-at="2021-02-05T14:11:02 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="256400" started-at="2020-12-29T15:24:27 IST" finished-at="2020-12-29T15:28:43 IST">
-      <class name="TestJava.RegistrationTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:TestJava.RegistrationTest@34c4973]" name="setup" is-config="true" duration-ms="363" started-at="2020-12-29T15:24:27 IST" finished-at="2020-12-29T15:24:27 IST">
+    <test name="Default test" duration-ms="20970" started-at="2021-02-05T14:10:42 IST" finished-at="2021-02-05T14:11:02 IST">
+      <class name="FlipkartTest.LogInTest">
+        <test-method status="PASS" signature="setup1()[pri:0, instance:FlipkartTest.LogInTest@7a765367]" name="setup1" is-config="true" duration-ms="256" started-at="2021-02-05T14:10:41 IST" finished-at="2021-02-05T14:10:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:FlipkartTest.LogInTest@7a765367]" name="setup" is-config="true" duration-ms="1" started-at="2021-02-05T14:10:42 IST" finished-at="2021-02-05T14:10:42 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="browsersetUp(java.lang.reflect.Method)[pri:0, instance:TestJava.RegistrationTest@34c4973]" name="browsersetUp" is-config="true" duration-ms="36889" started-at="2020-12-29T15:24:27 IST" finished-at="2020-12-29T15:25:04 IST">
+        <test-method status="PASS" signature="initialization(java.lang.reflect.Method)[pri:0, instance:FlipkartTest.LogInTest@7a765367]" name="initialization" is-config="true" duration-ms="18363" started-at="2021-02-05T14:10:42 IST" finished-at="2021-02-05T14:11:00 IST">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void TestJava.RegistrationTest.registration_with_Valid_Invalid_Data() throws java.lang.InterruptedException]]>
+                <![CDATA[public void FlipkartTest.LogInTest.chechException()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- browsersetUp -->
-        <test-method status="FAIL" signature="registration_with_Valid_Invalid_Data()[pri:1, instance:TestJava.RegistrationTest@34c4973]" name="registration_with_Valid_Invalid_Data" duration-ms="58390" started-at="2020-12-29T15:25:04 IST" finished-at="2020-12-29T15:26:03 IST">
-          <exception class="org.openqa.selenium.TimeoutException">
+        </test-method> <!-- initialization -->
+        <test-method status="FAIL" signature="chechException()[pri:0, instance:FlipkartTest.LogInTest@7a765367]" name="chechException" duration-ms="950" started-at="2021-02-05T14:11:00 IST" finished-at="2021-02-05T14:11:01 IST">
+          <exception class="org.openqa.selenium.InvalidSelectorException">
             <message>
-              <![CDATA[Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (27559e8d7668b4be1046e5bd842117bd)] -> xpath: //body/div[@id='pagewrap']/div[@id='body']/div[@id='layout']/div[@id='content']/div[@id='page-36']/div[1]/div[1]/div[1]/div[2]/form[1]/p[3]/input[3]] (tried for 45 second(s) with 500 milliseconds interval)
+              <![CDATA[invalid selector: Unable to locate an element with the xpath expression //div[contains(text(),'Car & Bike Accessories')]/parent::a/parent::div/parent::div/parent:: because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[contains(text(),'Car & Bike Accessories')]/parent::a/parent::div/parent::div/parent::' is not a valid XPath expression.
+  (Session info: chrome=88.0.4324.146)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'DESKTOP-0K72I4M', ip: '192.168.43.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\siddh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53048}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 27559e8d7668b4be1046e5bd842117bd]]>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.146, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\siddh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50522}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 552450adc33d5298b355969c9adb5191
+*** Element info: {Using=xpath, value=//div[contains(text(),'Car & Bike Accessories')]/parent::a/parent::div/parent::div/parent::}]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (27559e8d7668b4be1046e5bd842117bd)] -> xpath: //body/div[@id='pagewrap']/div[@id='body']/div[@id='layout']/div[@id='content']/div[@id='page-36']/div[1]/div[1]/div[1]/div[2]/form[1]/p[3]/input[3]] (tried for 45 second(s) with 500 milliseconds interval)
+              <![CDATA[org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //div[contains(text(),'Car & Bike Accessories')]/parent::a/parent::div/parent::div/parent:: because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[contains(text(),'Car & Bike Accessories')]/parent::a/parent::div/parent::div/parent::' is not a valid XPath expression.
+  (Session info: chrome=88.0.4324.146)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'DESKTOP-0K72I4M', ip: '192.168.43.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\siddh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53048}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 27559e8d7668b4be1046e5bd842117bd
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at AT.utility.Utilities.waitForElementUntilClickable(Utilities.java:94)
-at AT.objectRepository.MyAccountPage.clickOnRegisterButton(MyAccountPage.java:66)
-at TestJava.RegistrationTest.registration_with_Valid_Invalid_Data(RegistrationTest.java:118)
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.146, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\siddh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50522}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 552450adc33d5298b355969c9adb5191
+*** Element info: {Using=xpath, value=//div[contains(text(),'Car & Bike Accessories')]/parent::a/parent::div/parent::div/parent::}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)
+at org.openqa.selenium.By$ByXPath.findElements(By.java:348)
+at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)
+at FlipkartTest.LogInTest.chechException(LogInTest.java:56)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -74,182 +96,30 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          </exception> <!-- org.openqa.selenium.InvalidSelectorException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- registration_with_Valid_Invalid_Data -->
-        <test-method status="PASS" signature="extentFailure(org.testng.ITestResult)[pri:0, instance:TestJava.RegistrationTest@34c4973]" name="extentFailure" is-config="true" duration-ms="579" started-at="2020-12-29T15:26:03 IST" finished-at="2020-12-29T15:26:03 IST">
+        </test-method> <!-- chechException -->
+        <test-method status="PASS" signature="extentFailure(org.testng.ITestResult)[pri:0, instance:FlipkartTest.LogInTest@7a765367]" name="extentFailure" is-config="true" duration-ms="1026" started-at="2021-02-05T14:11:01 IST" finished-at="2021-02-05T14:11:02 IST">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=registration_with_Valid_Invalid_Data status=FAILURE method=RegistrationTest.registration_with_Valid_Invalid_Data()[pri:1, instance:TestJava.RegistrationTest@34c4973] output={null}]]]>
+                <![CDATA[[TestResult name=chechException status=FAILURE method=LogInTest.chechException()[pri:0, instance:FlipkartTest.LogInTest@7a765367] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- extentFailure -->
-        <test-method status="PASS" signature="browsersetUp(java.lang.reflect.Method)[pri:0, instance:TestJava.RegistrationTest@34c4973]" name="browsersetUp" is-config="true" duration-ms="23765" started-at="2020-12-29T15:26:03 IST" finished-at="2020-12-29T15:26:27 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void TestJava.RegistrationTest.registration_with_Invalid_email() throws java.lang.InterruptedException]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- browsersetUp -->
-        <test-method status="FAIL" signature="registration_with_Invalid_email()[pri:2, instance:TestJava.RegistrationTest@34c4973]" name="registration_with_Invalid_email" duration-ms="55135" started-at="2020-12-29T15:26:27 IST" finished-at="2020-12-29T15:27:22 IST">
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (484a522a32f8ee1c19ab12ea5c8cc286)] -> xpath: //body/div[@id='pagewrap']/div[@id='body']/div[@id='layout']/div[@id='content']/div[@id='page-36']/div[1]/div[1]/div[1]/div[2]/form[1]/p[3]/input[3]] (tried for 45 second(s) with 500 milliseconds interval)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-0K72I4M', ip: '192.168.43.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\siddh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 484a522a32f8ee1c19ab12ea5c8cc286]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (484a522a32f8ee1c19ab12ea5c8cc286)] -> xpath: //body/div[@id='pagewrap']/div[@id='body']/div[@id='layout']/div[@id='content']/div[@id='page-36']/div[1]/div[1]/div[1]/div[2]/form[1]/p[3]/input[3]] (tried for 45 second(s) with 500 milliseconds interval)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-0K72I4M', ip: '192.168.43.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\siddh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 484a522a32f8ee1c19ab12ea5c8cc286
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at AT.utility.Utilities.waitForElementUntilClickable(Utilities.java:94)
-at AT.objectRepository.MyAccountPage.clickOnRegisterButton(MyAccountPage.java:66)
-at TestJava.RegistrationTest.registration_with_Invalid_email(RegistrationTest.java:146)
-at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.lang.reflect.Method.invoke(Method.java:498)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.util.ArrayList.forEach(ArrayList.java:1259)
-at org.testng.TestRunner.privateRun(TestRunner.java:764)
-at org.testng.TestRunner.run(TestRunner.java:585)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
-at org.testng.SuiteRunner.run(SuiteRunner.java:286)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
-at org.testng.TestNG.runSuites(TestNG.java:1069)
-at org.testng.TestNG.run(TestNG.java:1037)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- registration_with_Invalid_email -->
-        <test-method status="PASS" signature="extentFailure(org.testng.ITestResult)[pri:0, instance:TestJava.RegistrationTest@34c4973]" name="extentFailure" is-config="true" duration-ms="448" started-at="2020-12-29T15:27:22 IST" finished-at="2020-12-29T15:27:23 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=registration_with_Invalid_email status=FAILURE method=RegistrationTest.registration_with_Invalid_email()[pri:2, instance:TestJava.RegistrationTest@34c4973] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- extentFailure -->
-        <test-method status="PASS" signature="browsersetUp(java.lang.reflect.Method)[pri:0, instance:TestJava.RegistrationTest@34c4973]" name="browsersetUp" is-config="true" duration-ms="21048" started-at="2020-12-29T15:27:23 IST" finished-at="2020-12-29T15:27:44 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void TestJava.RegistrationTest.registration_with_Empty_email() throws java.lang.InterruptedException]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- browsersetUp -->
-        <test-method status="FAIL" signature="registration_with_Empty_email()[pri:3, instance:TestJava.RegistrationTest@34c4973]" name="registration_with_Empty_email" duration-ms="56937" started-at="2020-12-29T15:27:44 IST" finished-at="2020-12-29T15:28:41 IST">
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (85cf6ed990fa723e516ab0a7caf53c4e)] -> xpath: //body/div[@id='pagewrap']/div[@id='body']/div[@id='layout']/div[@id='content']/div[@id='page-36']/div[1]/div[1]/div[1]/div[2]/form[1]/p[3]/input[3]] (tried for 45 second(s) with 500 milliseconds interval)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-0K72I4M', ip: '192.168.43.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\siddh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53351}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 85cf6ed990fa723e516ab0a7caf53c4e]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (85cf6ed990fa723e516ab0a7caf53c4e)] -> xpath: //body/div[@id='pagewrap']/div[@id='body']/div[@id='layout']/div[@id='content']/div[@id='page-36']/div[1]/div[1]/div[1]/div[2]/form[1]/p[3]/input[3]] (tried for 45 second(s) with 500 milliseconds interval)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-0K72I4M', ip: '192.168.43.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\siddh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53351}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 85cf6ed990fa723e516ab0a7caf53c4e
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at AT.utility.Utilities.waitForElementUntilClickable(Utilities.java:94)
-at AT.objectRepository.MyAccountPage.clickOnRegisterButton(MyAccountPage.java:66)
-at TestJava.RegistrationTest.registration_with_Empty_email(RegistrationTest.java:174)
-at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.lang.reflect.Method.invoke(Method.java:498)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.util.ArrayList.forEach(ArrayList.java:1259)
-at org.testng.TestRunner.privateRun(TestRunner.java:764)
-at org.testng.TestRunner.run(TestRunner.java:585)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
-at org.testng.SuiteRunner.run(SuiteRunner.java:286)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
-at org.testng.TestNG.runSuites(TestNG.java:1069)
-at org.testng.TestNG.run(TestNG.java:1037)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- registration_with_Empty_email -->
-        <test-method status="PASS" signature="extentFailure(org.testng.ITestResult)[pri:0, instance:TestJava.RegistrationTest@34c4973]" name="extentFailure" is-config="true" duration-ms="433" started-at="2020-12-29T15:28:41 IST" finished-at="2020-12-29T15:28:41 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=registration_with_Empty_email status=FAILURE method=RegistrationTest.registration_with_Empty_email()[pri:3, instance:TestJava.RegistrationTest@34c4973] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- extentFailure -->
-        <test-method status="PASS" signature="closeReport()[pri:0, instance:TestJava.RegistrationTest@34c4973]" name="closeReport" is-config="true" duration-ms="2366" started-at="2020-12-29T15:28:41 IST" finished-at="2020-12-29T15:28:43 IST">
+        <test-method status="PASS" signature="closeReport()[pri:0, instance:FlipkartTest.LogInTest@7a765367]" name="closeReport" is-config="true" duration-ms="598" started-at="2021-02-05T14:11:02 IST" finished-at="2021-02-05T14:11:02 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeReport -->
-      </class> <!-- TestJava.RegistrationTest -->
+        <test-method status="PASS" signature="closeReport1()[pri:0, instance:FlipkartTest.LogInTest@7a765367]" name="closeReport1" is-config="true" duration-ms="35" started-at="2021-02-05T14:11:03 IST" finished-at="2021-02-05T14:11:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport1 -->
+      </class> <!-- FlipkartTest.LogInTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

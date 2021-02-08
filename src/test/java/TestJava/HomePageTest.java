@@ -106,9 +106,6 @@ public class HomePageTest extends BaseClass {
 		Assert.assertEquals(true, homepage1.verifyThreeArrivals());
 		log.info("home page has only three arrival");
 
-		Assert.assertEquals(true, homepage1.verifyThreeArrivals());
-		log.info("home page has only three arrival");
-
 		seleniumruby = homepage.clickOnSeleniumRubyImage();
 		log.info("clicked on ruby Image");
 
@@ -250,7 +247,7 @@ public class HomePageTest extends BaseClass {
 		String pageTitle = seleniumruby.verifyPageTitle();
 		log.debug("Next page title is : " + pageTitle);
 
-		seleniumruby.enterQuantityOfRuby("414");
+		seleniumruby.enterQuantityOfRuby(414);
 		log.info("Entered the vale in text box ");
 
 		seleniumruby.clickOnRubyAddToBasketButton();

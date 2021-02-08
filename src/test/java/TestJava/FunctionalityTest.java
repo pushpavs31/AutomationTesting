@@ -5,25 +5,16 @@ import java.util.Iterator;
 import java.util.List;
 
 import org.openqa.selenium.WebElement;
-import org.testng.Assert;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
-import com.aventstack.extentreports.Status;
-import com.aventstack.extentreports.markuputils.ExtentColor;
-import com.aventstack.extentreports.markuputils.MarkupHelper;
-
-import AT.Base.BaseClass;
+import AT.Base.BaseTest;
 import AT.objectRepository.HomePage;
 import AT.objectRepository.ProductPage;
-import AT.utility.Utilities;
 
-public class FunctionalityTest extends BaseClass {
+public class FunctionalityTest extends BaseTest {
 	HomePage homepage;
 	ProductPage productpage;
 	
@@ -40,16 +31,16 @@ public class FunctionalityTest extends BaseClass {
 //		endTest();
 //	}
 	
-	@BeforeMethod
-	public void Setup(Method name) {
-//		String methodname = name.getName();
-//		startTest(methodname);
-		
-		initialization();
-		log.debug("************* "+ browser + " Browser has launched successfully *************");
-		log.info("Webpage has Opened and maximise");
-		homepage = new HomePage(Ndriver);
-	}
+//	@BeforeMethod
+//	public void Setup(Method name) {
+////		String methodname = name.getName();
+////		startTest(methodname);
+//		
+//		initialization();
+//		log.debug("************* "+ browser + " Browser has launched successfully *************");
+//		log.info("Webpage has Opened and maximise");
+//		homepage = new HomePage(Ndriver);
+//	}
 	
 
 	@Test
@@ -73,8 +64,8 @@ public class FunctionalityTest extends BaseClass {
 		}
 	}
 
-	@AfterMethod
-	public void tearDown(ITestResult result) {
+//	@AfterMethod
+//	public void tearDown(ITestResult result) {
 //		
 //		if(result.getStatus()==ITestResult.SUCCESS)
 //		{
@@ -101,9 +92,9 @@ public class FunctionalityTest extends BaseClass {
 //			}
 //		}
 			
-		closure();
-		log.debug("************* " + browser+ " Browser closed successfully*************");
-	}
+//		closure();
+//		log.debug("************* " + browser+ " Browser closed successfully*************");
+//	}
 
 	@Test
 	public void sort_Product_By_Popularity() {

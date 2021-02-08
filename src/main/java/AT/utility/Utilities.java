@@ -25,8 +25,12 @@ public class Utilities {
 
 	// ****************switch to frame method********************************
 
-	public void switchToFrame(String frameName, WebDriver driver) {
+	public void switchToFrameByName(String frameName, WebDriver driver) {
 		driver.switchTo().frame(frameName);
+	}
+	
+	public void switchToFrameByidElement(WebElement element, WebDriver driver) {
+		driver.switchTo().frame(element);
 	}
 
 	// ***********method for taking screenshot for failing methods***************8
@@ -34,7 +38,7 @@ public class Utilities {
 	public static String takeScreenShot(String Mname, WebDriver driver) {
 
 		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
-		String filepath = System.getProperty("user.dir") + "\\screenshot\\" + Mname + "-" + timeStamp + ".png";
+		String filepath = System.getProperty("user.dir") + "\\screenshot\\flipkart\\" + Mname + "-" + timeStamp + ".png";
 		File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		try {
 			FileUtils.copyFile(screenshot, new File(filepath));
@@ -52,7 +56,7 @@ public class Utilities {
 
 		try {
 			fis = new FileInputStream(".\\Configuration\\User Credentilas.xlsx");
-			workbook = new XSSFWorkbook();
+			workbook = new XSSFWorkbook(fis);
 
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
@@ -83,7 +87,7 @@ public class Utilities {
 
 	// *************************Explicitly wait for element******************************
 
-	public static void waitForElement(WebElement element, long waitTime, WebDriver driver) {
+	public static void waitForVisibleElement(WebElement element, long waitTime, WebDriver driver) {
 		WebDriverWait wait = new WebDriverWait(driver, waitTime);
 		wait.until(ExpectedConditions.visibilityOf(element));
 

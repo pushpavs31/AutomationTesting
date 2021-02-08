@@ -55,7 +55,7 @@ public WebDriver driver;
 	
 	public boolean verifyRubyIsAddedInBasket()
 	{
-		Utilities.waitForElement(rubyInBasket, 10, driver);
+		Utilities.waitForElementUntilClickable(rubyInBasket, 10, driver);
 		return rubyInBasket.isDisplayed();
 	}
 

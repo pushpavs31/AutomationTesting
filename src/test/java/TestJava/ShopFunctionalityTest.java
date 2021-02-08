@@ -82,7 +82,7 @@ public class ShopFunctionalityTest extends BaseClass {
 		log.debug("************* " + browser + " Browser closed successfully*************");
 	}
 
-	 @Test(description = "To read out of stock message is displayed or not")
+	 @Test(enabled = false,description = "To read out of stock message is displayed or not")
 	public void shop_ReadMore_Functionality() throws InterruptedException {
 		productpage = homepage.clickOnShopMenu();
 		log.info("clicked on shop menu");
@@ -101,7 +101,7 @@ public class ShopFunctionalityTest extends BaseClass {
 //		ETest.info("message was clearly displaying on page");
 	}
 
-	//@Test(dataProvider = "dataProvider")
+	@Test(enabled= true,invocationCount=1,dataProvider = "dataProvider")
 	public void add_To_Basket_View_Basket(String fname, String lname, String emails, String num, String cname,
 			String adr, String city, String sname, String pcode) throws InterruptedException {
 
@@ -182,10 +182,10 @@ public class ShopFunctionalityTest extends BaseClass {
 
 	}
 
-	//@DataProvider
+	@DataProvider
 	public Object[][] dataProvider() {
 		Object[][] data = {
-				{ "apex", "joseph", "svsn@gmail.com", "8976346598", "India", "at.hanuman", "pune", "Maharashtra",
+				{ "apexw", "josephs", "svisn@gmail.com", "8976346598", "India", "at.hanuman", "pune", "Maharashtra",
 						"441206" },
 				{ "apesx", "joseh", "ssddvsn@gmail.com", "8976349598", "India", "at.keshav nagar", "pune",
 						"Maharashtra", "441207" } };

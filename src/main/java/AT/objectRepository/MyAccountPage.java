@@ -68,12 +68,12 @@ public class MyAccountPage {
 	}
 
 	public boolean verifyUserLogin(String msg) {
-		return driver.getPageSource().equalsIgnoreCase(msg);
+		return driver.getPageSource().contains(msg);
 	}
 
 	public boolean verfiyInvalidEmailErrorMsg(String msg1) {
 		
-		Utilities.waitForElement(msgForInvalidEmail, 5, driver);
+		Utilities.waitForElementUntilClickable(msgForInvalidEmail, 5, driver);
 		boolean flag = false;
 
 		if (msgForInvalidEmail.getText().equals(msg1)) {

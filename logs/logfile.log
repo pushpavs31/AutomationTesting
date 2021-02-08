@@ -1,47 +1,83 @@
-14:54:17.294 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
-14:54:56.717 [main] INFO  AT.Base.BaseClass - click on My account link
-14:54:56.816 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
-14:55:01.938 [main] INFO  AT.Base.BaseClass - Entered password in password field
-14:57:07.406 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
-14:57:58.942 [main] INFO  AT.Base.BaseClass - click on My account link
-14:57:59.051 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
-14:58:04.359 [main] INFO  AT.Base.BaseClass - Entered password in password field
-14:58:09.398 [main] INFO  AT.Base.BaseClass - click on Register button
-14:58:09.517 [main] INFO  AT.Base.BaseClass - original msg is :Error: Please provide a valid email address.
-15:09:25.932 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
-15:10:22.153 [main] INFO  AT.Base.BaseClass - click on My account link
-15:10:22.244 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
-15:10:27.444 [main] INFO  AT.Base.BaseClass - Entered password in password field
-15:13:13.701 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
-15:13:34.357 [main] INFO  AT.Base.BaseClass - click on My account link
-15:13:34.693 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
-15:13:39.850 [main] INFO  AT.Base.BaseClass - Entered password in password field
-15:14:16.097 [main] INFO  AT.Base.BaseClass - click on Register button
-15:14:16.243 [main] INFO  AT.Base.BaseClass - is error msg displayed with enterd invlid email true
-15:16:19.138 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
-15:16:46.617 [main] INFO  AT.Base.BaseClass - click on My account link
-15:16:46.776 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
-15:16:50.976 [main] INFO  AT.Base.BaseClass - Entered password in password field
-15:17:18.916 [main] INFO  AT.Base.BaseClass - click on Register button
-15:17:18.988 [main] INFO  AT.Base.BaseClass - is error msg displayed with enterd invlid email true
-15:18:13.212 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
-15:18:48.002 [main] INFO  AT.Base.BaseClass - click on My account link
-15:18:48.137 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
-15:18:52.304 [main] INFO  AT.Base.BaseClass - Entered password in password field
-15:20:43.990 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
-15:21:27.471 [main] INFO  AT.Base.BaseClass - click on My account link
-15:21:27.608 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
-15:21:31.774 [main] INFO  AT.Base.BaseClass - Entered password in password field
-15:24:37.762 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
-15:25:11.402 [main] INFO  AT.Base.BaseClass - click on My account link
-15:25:11.538 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
-15:25:17.716 [main] INFO  AT.Base.BaseClass - Entered password in password field
-15:26:10.007 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
-15:26:33.117 [main] INFO  AT.Base.BaseClass - click on My account link
-15:26:33.225 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
-15:26:37.413 [main] INFO  AT.Base.BaseClass - Entered password in password field
-15:27:30.950 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
-15:27:50.462 [main] INFO  AT.Base.BaseClass - click on My account link
-15:27:50.521 [main] INFO  AT.Base.BaseClass - Enterd email address in email field
-15:27:55.744 [main] INFO  AT.Base.BaseClass - Entered password in password field
-15:33:57.212 [TestNG-test=Registration Test-1] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+12:43:27.354 [main] INFO  AT.Base.BaseClass - Enterd email in field
+12:43:27.502 [main] INFO  AT.Base.BaseClass - Enterd password in field
+12:43:29.591 [main] INFO  AT.Base.BaseClass - Click on Login Button
+13:11:08.810 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+13:11:33.283 [main] INFO  AT.Base.BaseClass - Enterd email in field
+13:11:33.400 [main] INFO  AT.Base.BaseClass - Enterd password in field
+13:11:35.505 [main] INFO  AT.Base.BaseClass - Click on Login Button
+13:11:35.506 [main] INFO  AT.Base.BaseClass - closed notification window
+13:14:14.735 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+13:14:33.267 [main] INFO  AT.Base.BaseClass - Enterd email in field
+13:14:33.384 [main] INFO  AT.Base.BaseClass - Enterd password in field
+13:14:35.504 [main] INFO  AT.Base.BaseClass - Click on Login Button
+13:20:11.929 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+13:20:39.761 [main] INFO  AT.Base.BaseClass - Enterd email in field
+13:20:39.878 [main] INFO  AT.Base.BaseClass - Enterd password in field
+13:20:41.982 [main] INFO  AT.Base.BaseClass - Click on Login Button
+13:25:05.735 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+13:26:25.792 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+13:26:39.907 [main] INFO  AT.Base.BaseClass - Enterd email in field
+13:26:40.042 [main] INFO  AT.Base.BaseClass - Enterd password in field
+13:26:42.237 [main] INFO  AT.Base.BaseClass - Click on Login Button
+13:28:35.164 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+15:36:25.676 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+15:36:38.321 [main] INFO  AT.Base.BaseClass - Enterd email in field
+15:36:38.446 [main] INFO  AT.Base.BaseClass - Enterd password in field
+15:36:40.598 [main] INFO  AT.Base.BaseClass - Click on Login Button
+19:08:36.896 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+19:08:54.010 [main] INFO  AT.Base.BaseClass - Entered mobile number
+19:08:54.558 [main] INFO  AT.Base.BaseClass - Entered password
+19:08:54.723 [main] INFO  AT.Base.BaseClass - Entered password
+19:08:59.264 [main] INFO  AT.Base.BaseClass - login successfull
+19:12:58.710 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+19:13:04.753 [main] INFO  AT.Base.BaseClass - Entered mobile number
+19:13:04.901 [main] INFO  AT.Base.BaseClass - Entered password
+19:13:05.046 [main] INFO  AT.Base.BaseClass - Entered password
+19:13:08.122 [main] INFO  AT.Base.BaseClass - login successfull
+15:51:51.118 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+15:52:00.048 [main] INFO  AT.Base.BaseClass - Entered mobile number
+15:52:00.175 [main] INFO  AT.Base.BaseClass - Entered password
+15:52:00.244 [main] INFO  AT.Base.BaseClass - clicked on login button
+15:52:05.165 [main] INFO  AT.Base.BaseClass - login successfull
+15:56:30.647 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+15:59:37.793 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+16:06:24.800 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+16:06:43.531 [main] INFO  AT.Base.BaseClass - Entered mobile number
+16:06:43.686 [main] INFO  AT.Base.BaseClass - Entered password
+16:06:43.765 [main] INFO  AT.Base.BaseClass - clicked on login button
+16:06:48.185 [main] INFO  AT.Base.BaseClass - login successfull
+16:10:55.540 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+16:11:03.400 [main] INFO  AT.Base.BaseClass - Entered mobile number
+16:11:03.576 [main] INFO  AT.Base.BaseClass - Entered password
+16:11:03.695 [main] INFO  AT.Base.BaseClass - clicked on login button
+16:11:09.248 [main] INFO  AT.Base.BaseClass - login successfull
+16:14:49.455 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+16:15:26.737 [main] INFO  AT.Base.BaseClass - Entered mobile number
+16:15:26.864 [main] INFO  AT.Base.BaseClass - Entered password
+16:15:26.937 [main] INFO  AT.Base.BaseClass - clicked on login button
+16:15:41.104 [main] INFO  AT.Base.BaseClass - login successfull
+16:15:41.588 [main] INFO  AT.Base.BaseClass - clicked on my profile link
+16:15:45.176 [main] INFO  AT.Base.BaseClass - clicked on edit link
+16:15:48.370 [main] INFO  AT.Base.BaseClass - entre the name in Field
+16:15:51.561 [main] INFO  AT.Base.BaseClass - entre the last name in Field
+16:15:51.619 [main] INFO  AT.Base.BaseClass - selected the female checkbox field
+16:15:51.701 [main] INFO  AT.Base.BaseClass - clicked on save button
+18:02:18.379 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+18:02:26.666 [main] INFO  AT.Base.BaseClass - Entered mobile number
+18:02:26.798 [main] INFO  AT.Base.BaseClass - Entered password
+18:02:26.876 [main] INFO  AT.Base.BaseClass - clicked on login button
+18:02:33.373 [main] INFO  AT.Base.BaseClass - login successfull
+18:02:41.059 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+14:05:08.436 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+14:07:52.893 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+14:08:05.866 [main] INFO  AT.Base.BaseClass - Entered mobile number
+14:08:06.437 [main] INFO  AT.Base.BaseClass - Entered password
+14:08:06.784 [main] INFO  AT.Base.BaseClass - clicked on login button
+14:09:31.654 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+14:09:40.583 [main] INFO  AT.Base.BaseClass - Entered mobile number
+14:09:40.710 [main] INFO  AT.Base.BaseClass - Entered password
+14:09:40.785 [main] INFO  AT.Base.BaseClass - clicked on login button
+14:10:52.901 [main] DEBUG AT.Base.BaseClass - chrome Browser has started Successfully
+14:11:00.679 [main] INFO  AT.Base.BaseClass - Entered mobile number
+14:11:00.817 [main] INFO  AT.Base.BaseClass - Entered password
+14:11:00.892 [main] INFO  AT.Base.BaseClass - clicked on login button

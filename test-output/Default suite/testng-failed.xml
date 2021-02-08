@@ -3,17 +3,17 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestJava.RegistrationTest">
+      <class name="FlipkartTest.LogInTest">
         <methods>
-          <include name="extentFailure"/>
-          <include name="registration_with_Empty_email"/>
-          <include name="browsersetUp"/>
-          <include name="registration_with_Invalid_email"/>
-          <include name="closeReport"/>
-          <include name="registration_with_Valid_Invalid_Data"/>
+          <include name="chechException"/>
           <include name="setup"/>
+          <include name="closeReport"/>
+          <include name="initialization"/>
+          <include name="setup1"/>
+          <include name="closeReport1"/>
+          <include name="extentFailure"/>
         </methods>
-      </class> <!-- TestJava.RegistrationTest -->
+      </class> <!-- FlipkartTest.LogInTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

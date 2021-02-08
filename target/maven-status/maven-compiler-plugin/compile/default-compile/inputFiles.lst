@@ -1,5 +1,13 @@
 D:\testing materials\eclipse\workspace-eclipse2\AutomationTestingSample\src\main\java\AT\objectRepository\BasketPage.java
 D:\testing materials\eclipse\workspace-eclipse2\AutomationTestingSample\src\main\java\AT\customListeners\MyListener.java
+D:\testing materials\eclipse\workspace-eclipse2\AutomationTestingSample\src\main\java\ninja\demo\pageObjects\UserDashboardPage.java
+D:\testing materials\eclipse\workspace-eclipse2\AutomationTestingSample\src\main\java\AT\customListeners\CustomReporter.java
+D:\testing materials\eclipse\workspace-eclipse2\AutomationTestingSample\src\main\java\AT\objectRepository\CheckoutPage.java
+D:\testing materials\eclipse\workspace-eclipse2\AutomationTestingSample\src\main\java\ninja\demo\pageObjects\NinjaHomePage.java
+D:\testing materials\eclipse\workspace-eclipse2\AutomationTestingSample\src\main\java\ninja\demo\pageObjects\RegisterAccountPage.java
+D:\testing materials\eclipse\workspace-eclipse2\AutomationTestingSample\src\main\java\AT\objectRepository\AndroidQuickGuidePage.java
+D:\testing materials\eclipse\workspace-eclipse2\AutomationTestingSample\src\main\java\AT\objectRepository\MyAccountPage.java
+D:\testing materials\eclipse\workspace-eclipse2\AutomationTestingSample\src\main\java\AT\Base\BaseTest.java
 D:\testing materials\eclipse\workspace-eclipse2\AutomationTestingSample\src\main\java\AT\objectRepository\ProductPage.java
 D:\testing materials\eclipse\workspace-eclipse2\AutomationTestingSample\src\main\java\AT\objectRepository\HomePage.java
 D:\testing materials\eclipse\workspace-eclipse2\AutomationTestingSample\src\main\java\AT\customListeners\WebEventListner.java

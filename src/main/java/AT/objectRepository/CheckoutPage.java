@@ -130,7 +130,6 @@ public class CheckoutPage {
 			try {
 			action.moveToElement(driver.findElement(By.xpath("//span[@id='select2-chosen-2']"))).click().build()
 					.perform();
-			Thread.sleep(2000);
 			Utilities.waitForElementUntilClickable(driver.findElement(
 							By.xpath("//div[@class='select2-result-label' and @id='select2-result-label-39']")), 5, driver);
 			action.moveToElement(driver
@@ -174,6 +173,7 @@ public class CheckoutPage {
 	public boolean verifyOrderConfirmationMessage(String msg) {
 		boolean flag = false;
 		if (orderConfirmationMessage.getText().equalsIgnoreCase(msg)) {
+			System.out.println(orderConfirmationMessage.getText());
 			flag = true;
 		}
 		return true;

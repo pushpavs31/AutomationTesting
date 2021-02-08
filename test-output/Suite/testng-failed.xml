@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="methods">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <listeners>
     <listener class-name="AT.customListeners.CustomReporter"/>
   </listeners>
-  <test thread-count="3" name="Registration Test(failed)" parallel="methods">
+  <test thread-count="3" name="Registration Test(failed)">
     <classes>
-      <class name="TestJava.RegistrationTest">
+      <class name="ninja.demo.Test.WebsiteRegistrationTest">
         <methods>
-          <include name="extentFailure"/>
-          <include name="registration_with_Empty_email"/>
-          <include name="browsersetUp"/>
-          <include name="registration_with_Invalid_email"/>
-          <include name="closeReport"/>
-          <include name="registration_with_Valid_Invalid_Data"/>
           <include name="setup"/>
+          <include name="closeReport"/>
+          <include name="initialization"/>
+          <include name="extentFailure"/>
+          <include name="filled_Registration" invocation-numbers="0"/>
         </methods>
-      </class> <!-- TestJava.RegistrationTest -->
+      </class> <!-- ninja.demo.Test.WebsiteRegistrationTest -->
     </classes>
   </test> <!-- Registration Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

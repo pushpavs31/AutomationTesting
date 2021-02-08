@@ -12,7 +12,7 @@ import AT.utility.Utilities;
 
 public class HomePage {
 	
-	public WebDriver driver;
+	 WebDriver driver;
 	
 	public HomePage(WebDriver driver)
 	{
@@ -65,7 +65,7 @@ public class HomePage {
 	
 	public SeleniumRubyPage clickOnSeleniumRubyImage()
 	{
-		Utilities.waitForElement(seleniumRubyImg, 15, driver);
+		Utilities.waitForElementUntilClickable(seleniumRubyImg, 15, driver);
 		seleniumRubyImg.click();
 		return new SeleniumRubyPage(driver);
 	}
